@@ -1,0 +1,5 @@
+owner: progmatv
+repo: helm-charts
+charts_dir: charts
+pages_branch: gh-pages
+pages_index_path: index.yaml
